@@ -1,12 +1,12 @@
 # 📊 Sales Analysis Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
 This project analyzes an e-commerce sales dataset using SQL, Excel, and Power BI to uncover business insights related to revenue, profit, customer behaviour, product performance, and regional sales.
 
 ---
 
-## Tools Used
+## 🛠 Tools Used
 
 - SQL (MySQL Workbench)
 - Microsoft Excel
@@ -14,7 +14,7 @@ This project analyzes an e-commerce sales dataset using SQL, Excel, and Power BI
 
 ---
 
-## Workflow
+## 🔄 Workflow
 
 1. Imported the Superstore dataset.
 2. Performed SQL data cleaning and analysis.
@@ -24,7 +24,7 @@ This project analyzes an e-commerce sales dataset using SQL, Excel, and Power BI
 
 ---
 
-## Dashboard Features
+## 📈 Dashboard Features
 
 - Monthly Sales Trend
 - Sales by Category
@@ -36,13 +36,13 @@ This project analyzes an e-commerce sales dataset using SQL, Excel, and Power BI
 
 ---
 
-## Dashboard Preview
+## 📈 Dashboard Preview
 
 (Add dashboard image here after uploading it.)
 
 ---
 
-## Key Insights
+## 📊 Key Insights
 
 - Technology generated the highest revenue.
 - September recorded the highest monthly sales.
@@ -51,7 +51,7 @@ This project analyzes an e-commerce sales dataset using SQL, Excel, and Power BI
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```
 Sales-Analysis-Dashboard
@@ -61,3 +61,15 @@ Sales-Analysis-Dashboard
 ├── SQL
 └── README.md
 ```
+
+## 🚀 How to Run
+
+1. Download the repository.
+2. Open `Sales_Analysis_Dashboard.pbix` using Power BI Desktop.
+3. Explore the dashboard using the interactive slicers.
+4. Review the SQL queries in the `SQL` folder.
+5. Use the cleaned dataset from the `Dataset` folder if needed.
+
+## 👨‍💻 Author
+
+MOHAK VARSHNEY

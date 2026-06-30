@@ -67,8 +67,8 @@ Sales-Analysis-Dashboard
 1. Download the repository.
 2. Open `Sales_Analysis_Dashboard.pbix` using Power BI Desktop.
 3. Explore the dashboard using the interactive slicers.
-4. Review the SQL queries in the `SQL` folder.
-5. Use the cleaned dataset from the `Dataset` folder if needed.
+4. Review the SQL queries.
+5. Use the cleaned dataset if needed.
 
 ## 👨‍💻 Author
 
